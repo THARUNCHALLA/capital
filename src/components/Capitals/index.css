@@ -1,0 +1,28 @@
+.container {
+  background-color: #93c5fd;
+  height: 100vh;
+  border: solid 2px gray;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-family: 'roboto';
+  font-size: 20px;
+  font-style: italic;
+}
+.container2 {
+  background-color: white;
+  width: 60%;
+  padding: 30px;
+}
+.head {
+  font-family: 'roboto';
+  font-size: 14px;
+  font-style: italic;
+}
+select {
+  width: 130px;
+  height: 28px;
+}
